@@ -84,6 +84,19 @@ a{
     background-color:#ff1a64;
     color: white;
   }
+  .button4 {
+    background-color: rgb(241, 209, 209);; 
+    color: black; 
+    border: 2px solid #ffaec8;
+    text-decoration: none;
+    border-radius: 50px;
+    width: 150px;
+  }
+  
+  .button4:hover {
+    background-color: #ffaec8;
+    color: white;
+  }
   
   .img{
     border-radius: 50%;
